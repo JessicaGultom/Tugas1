@@ -9,3 +9,7 @@ print("Hasil penjumlahannya adalah = %z") (x,y,z)
 #pengurangan
 z = x - y
 print("Hasil pengurangannya adalah = %z") (x,y,z)
+
+#perkalian
+z = x * y
+print("Hasil perkaliannya adalah = %z") (x,y,z)
