@@ -13,3 +13,8 @@ print("Hasil pengurangannya adalah = %z") (x,y,z)
 #perkalian
 z = x * y
 print("Hasil perkaliannya adalah = %z") (x,y,z)
+
+
+#pembagian
+z = x / y
+print("Hasil peembagiannya adalah = %z") (x,y,z)
